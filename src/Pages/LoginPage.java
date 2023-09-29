@@ -4,7 +4,7 @@ public class LoginPage {
 	
 	public static void main(String[] arsa)
 	{
-		System.out.println("LoginPage");
+		System.out.println("LoginPagemodified");
 	}
 
 }
